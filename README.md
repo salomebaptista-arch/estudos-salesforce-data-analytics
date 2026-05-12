@@ -20,4 +20,6 @@ Custom Tabs (Guias): Entendimento da camada de interface. Aprendi que, para um o
 
 💡 Insight de Ciência de Dados:
 A dificuldade em localizar objetos recém-criados reforçou a importância da Governança de Dados. Para um Analista, entender o fluxo desde a criação do objeto até o registro do dado é essencial para garantir que a coleta de informações seja eficiente e livre de erros de interface.
+
+
 <img width="663" height="436" alt="Captura de tela 2026-05-12 203111" src="https://github.com/user-attachments/assets/a8a57fa6-2658-43c3-8e4b-26901f93ee7f" />
