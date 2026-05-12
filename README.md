@@ -6,6 +6,7 @@ Habilidades: Configuração de CRM, Gestão de Objetos e tipos de dados.
 Resultado:<img width="886" height="801" alt="image" src="https://github.com/user-attachments/assets/4341800b-fd1d-4e51-a4df-f221b09429e6" />
 ## Novo Aprendizado: Descobrir casos de uso para a plataforma
 <img width="886" height="742" alt="image" src="https://github.com/user-attachments/assets/812ff50e-d74e-4457-bfd1-4714f2f0e0f8" />
+
 🚀 Aprendizado: Estruturação de Dados no Salesforce
 Nesta etapa do projeto, foquei na criação da arquitetura de objetos para o sistema de gestão imobiliária. O maior aprendizado foi compreender que a existência de um dado no "back-end" não garante sua visibilidade no "front-end".
 
